@@ -4,14 +4,6 @@ This is a Food Deliver App (UI) created using Flutter for iOS and Android. You c
 
 <img src="https://github.com/navendu-pottekkat/food-delivery-app-ui/blob/master/assets/images/Screenshot_20200219-184138.png" width="200">
 
-![Screenshots](https://github.com/navendu-pottekkat/food-delivery-app-ui/blob/master/assets/images/Screenshot_20200219-184138.png =250x500)
+<img src="https://github.com/navendu-pottekkat/food-delivery-app-ui/blob/master/assets/images/Screenshot_20200219-184147.png" width="200">
 
-
-![Screenshots](https://github.com/navendu-pottekkat/food-delivery-app-ui/blob/master/assets/images/Screenshot_20200219-184147.png =250x500)
-
-
-![Screenshots](https://github.com/navendu-pottekkat/food-delivery-app-ui/blob/master/assets/images/Screenshot_20200219-184202.png =250x500)
-
-
-
-
+<img src="https://github.com/navendu-pottekkat/food-delivery-app-ui/blob/master/assets/images/Screenshot_20200219-184202.png" width="200">
