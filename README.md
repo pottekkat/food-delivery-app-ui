@@ -7,7 +7,7 @@ This is a Food Delivery App (UI) created using Flutter for iOS and Android. You 
 The home page of the app shows all the recent orders and the nearby restaurants.
 
 <img align="left" src="https://github.com/navendu-pottekkat/food-delivery-app-ui/blob/master/assets/images/Screenshot_20200219-184138.png" width="200">
-
+&nbsp;
 ## Restaurant Page 🍔
 
 The restuarant page slides into the screen with a hero animation and it shows the different foods in the menu of the restaurants.
