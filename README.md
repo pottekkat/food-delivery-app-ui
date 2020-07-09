@@ -26,6 +26,6 @@ If you have any improvements to the UI, please create a pull request and I would
 
 ## My Projects 
 
-Do check out my other projects in the github repo. Check out my portfolio at https://navendu-pottekkat.github.io/#/
+Do check out my other projects in the github repo. Check out my portfolio at [navendu.me](https://navendu.me)
 
 Happy Coding!
